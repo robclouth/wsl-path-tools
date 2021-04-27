@@ -3,6 +3,8 @@
 	"displayName": "WSL Path Tools",
 	"description": "Tools to convert paths between Windows and WSL format",
 	"version": "1.0.0",
+	"publisher": "robclouth",
+	"repository": "https://github.com/robclouth/wsl-path-tools",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
